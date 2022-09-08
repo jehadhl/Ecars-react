@@ -1,0 +1,20 @@
+[
+   {
+       "name" : "Dubai",
+       "code" :"du"
+   },
+
+   {
+    "name" : "sharja",
+    "code" :"sh"
+    },
+    {
+     "name" : "abu Dhabi",
+     "code" :"ab"
+    },
+    {
+        "name":"ajman",
+        "code":"aj"
+    }
+
+ ]

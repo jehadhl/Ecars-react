@@ -1,0 +1,27 @@
+[{
+    "_id": {
+      "$oid": "1"
+    },
+    "name": "Cars",
+    "image":"https://cdn1.iconfinder.com/data/icons/electric-car-color-filled/300/20-06-11-Electric-car-icon-set-svg-2-512.png",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "2"
+    },
+    "name": "Charger",
+    "image":"https://cdn1.iconfinder.com/data/icons/electric-car-color-filled/300/20-06-11-Electric-car-icon-set-svg-2-512.png",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "3"
+    },
+    "name": "Accessories",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "4"
+    },
+    "name": "gadgets",
+    "__v": 0
+  }]
